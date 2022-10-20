@@ -1,0 +1,13 @@
+.div-tabla {
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px black
+}
+
+.titulo-seccion {
+    border-bottom: solid 2px black;
+}
+
+table, tr, td, th {
+    border: inset black 1px;
+}
