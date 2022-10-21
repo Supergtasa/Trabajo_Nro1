@@ -11,3 +11,33 @@
 table, tr, td, th {
     border: inset black 1px;
 }
+#div-imagen-noticia {
+    height: 84%;
+    width: 27%;
+    background: #a4a4a4;
+    border-radius: 1em;
+    float: left;
+    margin: 0.5em;
+}
+#div-texto-noticia {
+    height: 84%;
+    width: 65%;
+    background: #a4a4a4;
+    border-radius: 1em;
+    float: right;
+    margin: 0.5em;
+}
+#div-articulo { 
+    height: 89%;
+    width: 90%;
+    background: #a4a4a4;
+    border-radius: 1em;
+    margin: 1em;
+}
+#div-tabla {
+    height: 89%;
+    width: 90%;
+    background: #a4a4a4;
+    border-radius: 1em;
+    margin: 1em;
+}
