@@ -44,3 +44,6 @@ table, tr, td, th {
     background: blue;
     border-radius: 1em;
 }
+body {
+    background-color: bisque;
+}
